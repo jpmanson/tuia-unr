@@ -1,0 +1,101 @@
+id_vendedor,nombre,apellido,email,telefono,sucursal,fecha_ingreso,nivel,comision_pct,activo
+V0001,Emanuel,Navarro,emanuel.navarro@electrohogar.com.ar,+54 9 31 4522-6370,Mendoza,2024-10-11,Semi-Senior,7.83,True
+V0002,Martina,García,martina.garcía@electrohogar.com.ar,+54 9 357 5896-5262,Tucumán,2025-06-14,Lider,7.2,False
+V0003,Gonzalo,Ríos,gonzalo.ríos@electrohogar.com.ar,+54 9 138 2551-8570,Santa Fe,2016-10-14,Semi-Senior,3.17,True
+V0004,Adrián,Reyes,adrián.reyes@electrohogar.com.ar,+54 9 77 4246-7563,Santiago del Estero,2018-02-07,Junior,5.7,True
+V0005,Laura,Rodríguez,laura.rodríguez@electrohogar.com.ar,+54 9 44 4239-8265,Mendoza,2024-10-08,Senior,3.17,True
+V0006,Carlos,Flores,carlos.flores@electrohogar.com.ar,+54 9 304 8096-7471,Neuquén,2025-06-21,Lider,6.26,True
+V0007,Julieta,Díaz,julieta.díaz@electrohogar.com.ar,+54 9 106 5505-5585,Río Negro,2015-11-23,Semi-Senior,2.69,False
+V0008,Lorenzo,Cruz,lorenzo.cruz@electrohogar.com.ar,+54 9 342 5835-9173,Jujuy,2015-11-26,Gerente,5.13,True
+V0009,Lucas,Vargas,lucas.vargas@electrohogar.com.ar,+54 9 81 7868-4267,La Rioja,2016-11-10,Gerente,3.87,False
+V0010,Juan,Vargas,juan.vargas@electrohogar.com.ar,+54 9 376 6883-8859,Chubut,2017-01-14,Lider,4.39,False
+V0011,Martina,Castillo,martina.castillo@electrohogar.com.ar,+54 9 209 5430-3946,Buenos Aires,2022-03-23,Gerente,3.7,True
+V0012,Carlos,Rojas,carlos.rojas@electrohogar.com.ar,+54 9 282 6856-4813,Tucumán,2024-09-04,Semi-Senior,6.11,True
+V0013,Renata,García,renata.garcía@electrohogar.com.ar,+54 9 123 7363-6813,Tucumán,2023-10-29,Semi-Senior,5.76,True
+V0014,Thiago,Rodríguez,thiago.rodríguez@electrohogar.com.ar,+54 9 371 6761-3328,San Luis,2023-09-09,Lider,5.48,True
+V0015,Facundo,Fernández,facundo.fernández@electrohogar.com.ar,+54 9 57 1920-4811,Catamarca,2023-05-07,Junior,5.4,True
+V0016,Benjamín,Suárez,benjamín.suárez@electrohogar.com.ar,+54 9 114 3137-6582,Santa Cruz,2023-10-24,Senior,2.83,True
+V0017,Thiago,Torres,thiago.torres@electrohogar.com.ar,+54 9 67 9622-6978,Córdoba,2021-08-11,Lider,5.72,True
+V0018,Tomás,Castillo,tomás.castillo@electrohogar.com.ar,+54 9 80 3580-8157,La Rioja,2020-05-03,Senior,3.46,False
+V0019,Bianca,Suárez,bianca.suárez@electrohogar.com.ar,+54 9 193 4657-3872,San Juan,2022-05-12,Senior,3.2,True
+V0020,Bianca,Peralta,bianca.peralta@electrohogar.com.ar,+54 9 211 1530-3983,Catamarca,2022-03-26,Gerente,3.71,False
+V0021,Sofía,Mendoza,sofía.mendoza@electrohogar.com.ar,+54 9 83 6425-2274,Salta,2021-11-29,Senior,3.42,True
+V0022,Emanuel,Gutiérrez,emanuel.gutiérrez@electrohogar.com.ar,+54 9 384 6500-8317,Buenos Aires,2022-10-29,Semi-Senior,3.87,True
+V0023,Julieta,Morales,julieta.morales@electrohogar.com.ar,+54 9 66 1020-1788,San Juan,2020-11-20,Lider,7.83,True
+V0024,Facundo,Vargas,facundo.vargas@electrohogar.com.ar,+54 9 190 9946-7149,Santa Fe,2016-07-04,Lider,6.84,False
+V0025,Rodrigo,Reyes,rodrigo.reyes@electrohogar.com.ar,+54 9 94 8393-2207,CABA,2022-06-30,Junior,4.25,True
+V0026,Laura,Ruiz,laura.ruiz@electrohogar.com.ar,+54 9 98 7151-3636,Tierra del Fuego,2024-12-16,Gerente,7.68,True
+V0027,Benjamín,Navarro,benjamín.navarro@electrohogar.com.ar,+54 9 325 8909-1507,Jujuy,2018-06-21,Semi-Senior,5.84,True
+V0028,Valentina,García,valentina.garcía@electrohogar.com.ar,+54 9 62 6424-4367,Entre Ríos,2021-03-18,Gerente,6.47,False
+V0029,Catalina,Romero,catalina.romero@electrohogar.com.ar,+54 9 163 4891-2571,CABA,2021-05-24,Gerente,5.52,True
+V0030,Pablo,García,pablo.garcía@electrohogar.com.ar,+54 9 195 1062-8005,Córdoba,2022-07-01,Gerente,5.14,True
+V0031,Juan,Díaz,juan.díaz@electrohogar.com.ar,+54 9 98 5781-2342,Neuquén,2016-05-03,Junior,4.2,True
+V0032,Emilia,Mendoza,emilia.mendoza@electrohogar.com.ar,+54 9 349 5341-2493,La Rioja,2019-09-13,Lider,3.52,True
+V0033,Joaquín,Rivera,joaquín.rivera@electrohogar.com.ar,+54 9 239 1731-5313,Río Negro,2020-08-02,Senior,3.74,True
+V0034,Miranda,García,miranda.garcía@electrohogar.com.ar,+54 9 88 2584-2404,La Pampa,2021-12-11,Gerente,4.78,False
+V0035,Florencia,Ríos,florencia.ríos@electrohogar.com.ar,+54 9 42 7342-9561,Jujuy,2019-10-18,Lider,5.65,True
+V0036,Emilia,Álvarez,emilia.álvarez@electrohogar.com.ar,+54 9 51 7468-1568,Formosa,2019-05-25,Gerente,6.9,False
+V0037,Pablo,Sánchez,pablo.sánchez@electrohogar.com.ar,+54 9 240 3832-3738,Entre Ríos,2016-09-25,Semi-Senior,3.19,True
+V0038,Diego,Silva,diego.silva@electrohogar.com.ar,+54 9 114 3422-5225,Corrientes,2017-08-24,Junior,2.98,False
+V0039,Matías,Ríos,matías.ríos@electrohogar.com.ar,+54 9 177 5525-9514,Río Negro,2016-01-03,Junior,6.83,False
+V0040,Thiago,Benítez,thiago.benítez@electrohogar.com.ar,+54 9 225 2843-7790,Mendoza,2024-02-20,Gerente,5.73,True
+V0041,Sofía,Peralta,sofía.peralta@electrohogar.com.ar,+54 9 62 5687-9775,Santiago del Estero,2015-12-16,Lider,3.95,True
+V0042,Miranda,Navarro,miranda.navarro@electrohogar.com.ar,+54 9 253 1613-3821,Misiones,2021-04-13,Semi-Senior,5.9,True
+V0043,Ana,Castro,ana.castro@electrohogar.com.ar,+54 9 180 4892-1807,Tierra del Fuego,2020-06-21,Senior,7.43,True
+V0044,Benjamín,Álvarez,benjamín.álvarez@electrohogar.com.ar,+54 9 170 5593-9054,Santa Cruz,2018-02-13,Junior,7.85,True
+V0045,Lucía,Álvarez,lucía.álvarez@electrohogar.com.ar,+54 9 237 6257-5414,Tierra del Fuego,2021-02-15,Gerente,6.05,True
+V0046,Delfina,Díaz,delfina.díaz@electrohogar.com.ar,+54 9 219 8937-9462,Santiago del Estero,2016-08-05,Junior,5.33,True
+V0047,Laura,Álvarez,laura.álvarez@electrohogar.com.ar,+54 9 374 9303-7609,Mendoza,2017-01-18,Gerente,7.34,True
+V0048,Mateo,Gómez,mateo.gómez@electrohogar.com.ar,+54 9 113 1944-5087,CABA,2020-09-06,Junior,7.55,True
+V0049,Lucas,Domínguez,lucas.domínguez@electrohogar.com.ar,+54 9 248 9275-7503,La Rioja,2024-05-30,Junior,3.83,True
+V0050,Jazmín,Medina,jazmín.medina@electrohogar.com.ar,+54 9 101 8775-6730,Santiago del Estero,2023-12-20,Senior,6.62,True
+V0051,Agustina,Rodríguez,agustina.rodríguez@electrohogar.com.ar,+54 9 208 1813-3669,San Luis,2017-01-20,Semi-Senior,7.21,True
+V0052,Gabriel,Díaz,gabriel.díaz@electrohogar.com.ar,+54 9 148 7709-9409,Buenos Aires,2016-02-08,Junior,5.11,True
+V0053,Rodrigo,Rivera,rodrigo.rivera@electrohogar.com.ar,+54 9 318 1138-4666,Misiones,2018-12-24,Senior,6.42,True
+V0054,Felipe,Vargas,felipe.vargas@electrohogar.com.ar,+54 9 189 8520-5128,Entre Ríos,2020-07-26,Senior,6.22,False
+V0055,Matías,Molina,matías.molina@electrohogar.com.ar,+54 9 63 1120-9380,La Pampa,2016-05-05,Senior,5.59,False
+V0056,Jazmín,Romero,jazmín.romero@electrohogar.com.ar,+54 9 163 2771-8892,Córdoba,2022-01-11,Senior,6.02,True
+V0057,Catalina,Aguilar,catalina.aguilar@electrohogar.com.ar,+54 9 375 5895-4086,Mendoza,2020-01-01,Semi-Senior,7.45,False
+V0058,Matías,Castillo,matías.castillo@electrohogar.com.ar,+54 9 359 3292-1417,La Rioja,2020-03-22,Senior,3.93,True
+V0059,Matías,Vargas,matías.vargas@electrohogar.com.ar,+54 9 29 4111-6622,Tierra del Fuego,2017-10-20,Semi-Senior,6.27,True
+V0060,Milagros,Hernández,milagros.hernández@electrohogar.com.ar,+54 9 270 5918-3785,La Pampa,2015-12-21,Gerente,3.5,True
+V0061,Emilia,Ramírez,emilia.ramírez@electrohogar.com.ar,+54 9 143 3999-6499,La Rioja,2024-10-19,Semi-Senior,4.45,True
+V0062,Antonella,Ruiz,antonella.ruiz@electrohogar.com.ar,+54 9 201 5269-5817,Río Negro,2016-04-03,Junior,5.09,False
+V0063,Thiago,Suárez,thiago.suárez@electrohogar.com.ar,+54 9 47 8736-4187,Formosa,2024-06-16,Lider,5.41,True
+V0064,Carlos,Torres,carlos.torres@electrohogar.com.ar,+54 9 81 4281-6614,Jujuy,2019-06-01,Lider,3.29,True
+V0065,Adrián,Martínez,adrián.martínez@electrohogar.com.ar,+54 9 260 6449-3897,Corrientes,2018-09-08,Junior,2.53,True
+V0066,Santiago,Flores,santiago.flores@electrohogar.com.ar,+54 9 306 3595-9021,Córdoba,2024-05-07,Gerente,4.89,True
+V0067,Matías,Silva,matías.silva@electrohogar.com.ar,+54 9 255 7280-1076,CABA,2019-10-25,Semi-Senior,6.52,True
+V0068,Victoria,Benítez,victoria.benítez@electrohogar.com.ar,+54 9 108 1293-1067,La Rioja,2017-07-29,Semi-Senior,3.74,True
+V0069,Tomás,Ramírez,tomás.ramírez@electrohogar.com.ar,+54 9 63 7284-9246,San Luis,2022-05-15,Semi-Senior,2.86,True
+V0070,Tomás,Romero,tomás.romero@electrohogar.com.ar,+54 9 244 9524-9587,Corrientes,2020-12-08,Semi-Senior,4.39,True
+V0071,Julieta,Gómez,julieta.gómez@electrohogar.com.ar,+54 9 95 7609-1313,Salta,2023-04-15,Semi-Senior,3.66,True
+V0072,Thiago,Acosta,thiago.acosta@electrohogar.com.ar,+54 9 97 3017-7006,Santa Cruz,2018-07-04,Junior,4.56,True
+V0073,Adrián,Cabrera,adrián.cabrera@electrohogar.com.ar,+54 9 330 1796-1785,La Pampa,2024-08-03,Junior,2.77,True
+V0074,Antonella,Medina,antonella.medina@electrohogar.com.ar,+54 9 205 3024-9966,Misiones,2020-06-24,Semi-Senior,3.63,True
+V0075,Tomás,Ortiz,tomás.ortiz@electrohogar.com.ar,+54 9 349 2654-9524,Misiones,2018-10-26,Gerente,6.35,True
+V0076,Sofía,Acosta,sofía.acosta@electrohogar.com.ar,+54 9 379 2928-5631,Santa Fe,2016-12-31,Junior,5.24,False
+V0077,Camila,Morales,camila.morales@electrohogar.com.ar,+54 9 278 4304-6864,Santa Cruz,2021-03-16,Senior,3.38,False
+V0078,Facundo,Díaz,facundo.díaz@electrohogar.com.ar,+54 9 363 8875-6416,Salta,2025-10-08,Junior,6.19,True
+V0079,Miranda,Mendoza,miranda.mendoza@electrohogar.com.ar,+54 9 87 2475-9383,Córdoba,2017-09-08,Junior,7.48,True
+V0080,Ignacio,Romero,ignacio.romero@electrohogar.com.ar,+54 9 146 8606-1820,Santa Fe,2016-09-06,Semi-Senior,7.31,True
+V0081,Joaquín,Castillo,joaquín.castillo@electrohogar.com.ar,+54 9 229 2898-2556,CABA,2025-09-10,Semi-Senior,6.15,True
+V0082,Benjamín,Hernández,benjamín.hernández@electrohogar.com.ar,+54 9 235 5395-2522,Santiago del Estero,2016-08-29,Senior,3.51,True
+V0083,Matías,Vega,matías.vega@electrohogar.com.ar,+54 9 150 7319-8835,Jujuy,2018-07-11,Semi-Senior,3.12,True
+V0084,Valentina,Pérez,valentina.pérez@electrohogar.com.ar,+54 9 224 8908-8178,Tucumán,2018-12-12,Lider,6.79,False
+V0085,Juan,Ramírez,juan.ramírez@electrohogar.com.ar,+54 9 258 8997-2850,Jujuy,2020-11-09,Junior,2.85,True
+V0086,María,Benítez,maría.benítez@electrohogar.com.ar,+54 9 306 4669-6542,Formosa,2019-12-08,Gerente,3.02,True
+V0087,Emilia,Hernández,emilia.hernández@electrohogar.com.ar,+54 9 350 7305-3435,Chubut,2018-12-05,Junior,2.56,True
+V0088,Martina,Rojas,martina.rojas@electrohogar.com.ar,+54 9 264 3709-2226,Neuquén,2022-03-16,Semi-Senior,4.32,True
+V0089,Carlos,Acosta,carlos.acosta@electrohogar.com.ar,+54 9 125 7203-7607,Salta,2024-12-01,Lider,4.94,False
+V0090,Delfina,Martínez,delfina.martínez@electrohogar.com.ar,+54 9 266 8324-6178,Santa Fe,2020-03-22,Junior,3.06,True
+V0091,Ana,Ríos,ana.ríos@electrohogar.com.ar,+54 9 292 1002-2489,Catamarca,2018-11-10,Senior,7.4,False
+V0092,Santiago,Aguilar,santiago.aguilar@electrohogar.com.ar,+54 9 354 8474-6584,Santiago del Estero,2016-07-18,Junior,6.99,True
+V0093,Benjamín,Ríos,benjamín.ríos@electrohogar.com.ar,+54 9 328 8751-6952,Santa Cruz,2020-09-22,Junior,3.04,True
+V0094,María,Ruiz,maría.ruiz@electrohogar.com.ar,+54 9 192 5783-9973,Formosa,2021-08-10,Junior,2.75,True
+V0095,Facundo,Ramírez,facundo.ramírez@electrohogar.com.ar,+54 9 378 7704-2752,Misiones,2018-12-13,Semi-Senior,3.53,True
+V0096,Santiago,Vega,santiago.vega@electrohogar.com.ar,+54 9 108 6536-2765,Jujuy,2025-04-12,Gerente,3.18,True
+V0097,Ignacio,Molina,ignacio.molina@electrohogar.com.ar,+54 9 269 3205-9172,Buenos Aires,2019-11-08,Junior,5.54,True
+V0098,Thiago,Rojas,thiago.rojas@electrohogar.com.ar,+54 9 271 3903-3845,Tierra del Fuego,2016-08-28,Semi-Senior,3.07,False
+V0099,Jazmín,Castillo,jazmín.castillo@electrohogar.com.ar,+54 9 269 7302-7859,Catamarca,2018-01-13,Semi-Senior,4.0,True
+V0100,Agustina,Medina,agustina.medina@electrohogar.com.ar,+54 9 79 3263-7762,Catamarca,2017-12-13,Gerente,4.14,False
